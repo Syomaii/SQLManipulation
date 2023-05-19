@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\bin\Debug\SQLManipulation.exe.config
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\bin\Debug\SQLManipulation.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\bin\Debug\SQLManipulation.pdb
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.Form1.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.Properties.Resources.resources
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.csproj.GenerateResource.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.exe
+C:\Users\User\Desktop\dev\2NDYEAR\2nd SEM\appsdev\SQLManipulation\SQLManipulation\obj\Debug\SQLManipulation.pdb
